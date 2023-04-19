@@ -19,5 +19,6 @@ Wit the main purpose of building pipelines, EDA and Cleaning will be done at min
 
 ## Notebook
 [Regression Pipelines with Pycaret](https://github.com/halethithu/Use_SQL_in_Python_with_sqlite3/blob/main/Sql_Mental_Health.ipynb)
+
 [Regression Pipelines with Scikit-learn]
 
